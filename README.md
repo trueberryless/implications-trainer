@@ -55,4 +55,4 @@ pnpm dev
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/implications-trainer/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/implications-trainer/blob/main/LICENSE) for more information.
