@@ -3,11 +3,11 @@
   "private": true,
   "homepage": "https://implications-trainer.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/implications-trainer/issues"
+    "url": "https://github.com/trueberryless/implications-trainer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/implications-trainer.git"
+    "url": "https://github.com/trueberryless/implications-trainer.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
